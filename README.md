@@ -23,8 +23,10 @@ Using git means we avoid the usual group-project mess of `final_v2_REAL_final.do
 | Member | GitHub |
 |---|---|
 | **Shaun Morris** | [@shaun-mo](https://github.com/shaun-mo) |
-| **Tyler Drummond** | *to add* |
+| **Tyler Drummond** | [@tdrummond91](https://github.com/tdrummond91) |
 | **Sarah Toups** | [@sarahtoups](https://github.com/sarahtoups) |
+
+All three of us have write access to this repository.
 
 ---
 

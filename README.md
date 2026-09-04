@@ -1,7 +1,30 @@
-# Introduction to AI — Team 2
+# Introduction to AI — Group 2
 
-Team repository for **MIS 7397 · Introduction to Artificial Intelligence for Business**
-University of Houston · Fall 2026
+**MIS 7397 · Introduction to Artificial Intelligence for Business**
+University of Houston · Fall 2026 · Section 27425
+
+---
+
+## Purpose
+
+This is the shared working repository for **Group 2** in MIS 7397. It is where our team keeps everything connected to the course in one place, so all three of us are always working from the same version:
+
+- **Course reference** — the syllabus, schedule, grading breakdown, and policies, so nobody has to dig through Canvas mid-week.
+- **Capstone work** — our AI Opportunity-to-Deployment capstone as it develops across its milestones, from opportunity proposal through prototype, feasibility analysis, governance plan, and final report.
+- **Applied labs and assignments** — code, notebooks, and supporting files for the three applied labs and any team deliverables.
+- **A shared history** — every change is tracked, so we can see who changed what and when, and roll back if something breaks.
+
+Using git means we avoid the usual group-project mess of `final_v2_REAL_final.docx` files traded over email. One source of truth, always current.
+
+---
+
+## Team — Group 2
+
+| Member | GitHub |
+|---|---|
+| **Shaun Morris** | [@shaun-mo](https://github.com/shaun-mo) |
+| **Tyler Drummond** | *to add* |
+| **Sarah Toups** | [@sarahtoups](https://github.com/sarahtoups) |
 
 ---
 
@@ -11,6 +34,7 @@ University of Houston · Fall 2026
 |------|-------------|
 | [`hello-world.html`](hello-world.html) | Starter page — confirms the repo is live |
 | `[Syllabus] Intro to AI.pdf` | Full course syllabus (source document) |
+| `.env.local.example` | Template for local secrets — copy to `.env.local` |
 
 ---
 
@@ -89,6 +113,37 @@ Laptop with a modern web browser, Microsoft Office or equivalent, and university
 | Finals | Course Integration and Reflection | Final assessment / capstone evaluation (per Canvas) |
 
 > Topics may be adjusted during the semester to incorporate significant developments in AI.
+
+---
+
+## Capstone Milestone 1 — AI Opportunity Clinic
+
+*From the Week 2 lecture. This is our current deliverable.*
+
+> **Goal: produce a defensible candidate, not a finished solution.**
+
+| Step | What it means |
+|:---:|---|
+| **1 · CHOOSE** | One recurring decision or workflow. |
+| **2 · FRAME** | Pain · actor · workflow · baseline. |
+| **3 · MATCH** | Primary AI capability + non-AI alternative. |
+| **4 · TEST** | Five green lights + evidence/data source. |
+| **5 · DEFINE** | KPI · target · one risk/guardrail. |
+
+**Submission:** 1–2 pages + a one-slide summary.
+
+⚠️ **This is an approval gate** — it must be approved before any prototype work begins, so slipping this milestone blocks everything downstream. Per the syllabus, team milestones may carry stricter deadlines than individual work.
+
+### Team checklist
+
+- [ ] **Choose** the recurring decision/workflow we're targeting
+- [ ] **Frame** it — who feels the pain, who acts, what the current workflow is, what the baseline performance is
+- [ ] **Match** — name the primary AI capability, and the non-AI alternative we're comparing against
+- [ ] **Test** — clear all five green lights, cite our evidence and data source
+- [ ] **Define** — the KPI, the target number, and one named risk plus its guardrail
+- [ ] Write the 1–2 page submission
+- [ ] Build the one-slide summary
+- [ ] Submit for approval before starting prototype work
 
 ---
 

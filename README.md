@@ -32,11 +32,16 @@ All three of us have write access to this repository.
 
 ## Contents
 
-| File | Description |
+| File / Folder | Description |
 |------|-------------|
+| **`Class Notes/`** | One folder per week — each holds the lecture PDF plus a markdown outline of it |
+| ↳ `Wk 1 - Aug 27 26/` | The AI Shift — AI, Business & Competitive Transformation |
+| ↳ `Wk 2 - Sep 3 26/` | From Turing to Business Opportunity — Ch. 2 + **Capstone Milestone 1** |
 | [`hello-world.html`](hello-world.html) | Starter page — confirms the repo is live |
 | `[Syllabus] Intro to AI.pdf` | Full course syllabus (source document) |
 | `.env.local.example` | Template for local secrets — copy to `.env.local` |
+
+**Adding a new week:** create `Class Notes/Wk N - <Mon D YY>/`, drop the lecture PDF in, and add a `Week-N-Notes.md` outline beside it. The notes files are written so teammates *and* AI agents can pull the lecture content without parsing the PDF.
 
 ---
 

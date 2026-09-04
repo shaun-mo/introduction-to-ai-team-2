@@ -1,0 +1,105 @@
+# ─────────────────────────────────────────────
+# SECRETS — never commit these
+# ─────────────────────────────────────────────
+.env
+.env.*
+!.env.example
+!.env.local.example
+*.pem
+*.key
+secrets.json
+credentials.json
+
+# ─────────────────────────────────────────────
+# Python
+# ─────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+.conda/
+
+# ─────────────────────────────────────────────
+# Jupyter / notebooks
+# ─────────────────────────────────────────────
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+profile_default/
+ipython_config.py
+
+# ─────────────────────────────────────────────
+# Data — keep large / sensitive datasets out of git
+# Remove an entry below if a small sample file
+# genuinely belongs in the repo.
+# ─────────────────────────────────────────────
+*.csv
+*.tsv
+*.xlsx
+*.xls
+*.parquet
+*.db
+*.sqlite
+*.sqlite3
+data/raw/
+data/private/
+
+# ─────────────────────────────────────────────
+# Models & large artifacts
+# ─────────────────────────────────────────────
+*.pkl
+*.joblib
+*.h5
+*.onnx
+*.pt
+*.pth
+*.ckpt
+models/
+
+# ─────────────────────────────────────────────
+# Node / JavaScript
+# ─────────────────────────────────────────────
+node_modules/
+npm-debug.log*
+yarn-error.log*
+.next/
+.cache/
+
+# ─────────────────────────────────────────────
+# Editors & IDEs
+# ─────────────────────────────────────────────
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ─────────────────────────────────────────────
+# OS junk
+# ─────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+$RECYCLE.BIN/
+
+# ─────────────────────────────────────────────
+# Office temp files
+# ─────────────────────────────────────────────
+~$*.docx
+~$*.xlsx
+~$*.pptx
+
+# ─────────────────────────────────────────────
+# Logs
+# ─────────────────────────────────────────────
+*.log
+logs/

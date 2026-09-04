@@ -22,9 +22,9 @@ Using git means we avoid the usual group-project mess of `final_v2_REAL_final.do
 
 | Member | GitHub | School Email |
 |---|---|---|
-| **Shaun Morris** | [@shaun-mo](https://github.com/shaun-mo) | *to add* |
-| **Tyler Drummond** | [@tdrummond91](https://github.com/tdrummond91) | *to add* |
-| **Sarah Toups** | [@sarahtoups](https://github.com/sarahtoups) | *to add* |
+| **Shaun Morris** | [@shaun-mo](https://github.com/shaun-mo) | sbmorri2@cougarnet.uh.edu |
+| **Tyler Drummond** | [@tdrummond91](https://github.com/tdrummond91) | tsdrummo@CougarNet.UH.EDU |
+| **Sarah Toups** | [@sarahtoups](https://github.com/sarahtoups) | scepeda4@CougarNet.UH.EDU |
 
 All three of us have write access to this repository.
 

@@ -37,6 +37,7 @@ All three of us have write access to this repository.
 | **`Class Notes/`** | One folder per week — each holds the lecture PDF plus a markdown outline of it |
 | ↳ `Wk 1 - Aug 27 26/` | The AI Shift — AI, Business & Competitive Transformation |
 | ↳ `Wk 2 - Sep 3 26/` | From Turing to Business Opportunity — Ch. 2 + **Capstone Milestone 1** |
+| ↳ `Wk 3 - Sep 10 26/` | Language, Data & AI Readiness — Ch. 3 (NLP) + data readiness + **Milestone 1 final spec** |
 | [`hello-world.html`](hello-world.html) | Starter page — confirms the repo is live |
 | `[Syllabus] Intro to AI.pdf` | Full course syllabus (source document) |
 | `.env.local.example` | Template for local secrets — copy to `.env.local` |
@@ -123,34 +124,46 @@ Laptop with a modern web browser, Microsoft Office or equivalent, and university
 
 ---
 
-## Capstone Milestone 1 — AI Opportunity Clinic
+## Capstone Milestone 1 — Opportunity Proposal
 
-*From the Week 2 lecture. This is our current deliverable.*
+*Introduced in Week 2, finalized in Week 3. This is our current deliverable.*
 
-> **Goal: produce a defensible candidate, not a finished solution.**
+> **Due Thursday, September 17, 2026 (Week 4).** Worth 4% of the course.
+> **Goal: prove the opportunity is worth investigating — not that the AI works.**
 
-| Step | What it means |
-|:---:|---|
-| **1 · CHOOSE** | One recurring decision or workflow. |
-| **2 · FRAME** | Pain · actor · workflow · baseline. |
-| **3 · MATCH** | Primary AI capability + non-AI alternative. |
-| **4 · TEST** | Five green lights + evidence/data source. |
-| **5 · DEFINE** | KPI · target · one risk/guardrail. |
+**Submission:** 1–2 page Opportunity Proposal + a one-slide executive summary. No prototype required yet.
 
-**Submission:** 1–2 pages + a one-slide summary.
+| # | Component | What it must answer |
+|:---:|---|---|
+| **1** | **Problem + Stakeholder** | Specific pain; who experiences it? |
+| **2** | **Current Workflow** | What happens today? Where is the friction? |
+| **3** | **Baseline + KPI** | Current performance + measurable target. |
+| **4** | **AI Fit** | Primary capability and why it may help. |
+| **5** | **Evidence / Data Path** | Likely sources, access, quality, and constraints. |
+| **6** | **Non-AI Alternative** | Simpler solution considered. |
+| **7** | **Risk + Control** | One meaningful failure + initial guardrail. |
+| **8** | **Recommendation** | Investigate · reframe · reject. |
+
+**Approval standard:** meaningful + measurable + evidence-feasible + appropriately scoped.
 
 ⚠️ **This is an approval gate** — it must be approved before any prototype work begins, so slipping this milestone blocks everything downstream. Per the syllabus, team milestones may carry stricter deadlines than individual work.
 
+The Week 3 notes include a **data readiness scorecard** (source · access · quality · coverage · target · privacy). If two or more areas are red, the proposal should be reframed before submission. See [Week-3-Notes.md](Class%20Notes/Wk%203%20-%20Sep%2010%2026/Week-3-Notes.md) §11–13 for the full detail and an example executive summary layout.
+
 ### Team checklist
 
-- [ ] **Choose** the recurring decision/workflow we're targeting
-- [ ] **Frame** it — who feels the pain, who acts, what the current workflow is, what the baseline performance is
-- [ ] **Match** — name the primary AI capability, and the non-AI alternative we're comparing against
-- [ ] **Test** — clear all five green lights, cite our evidence and data source
-- [ ] **Define** — the KPI, the target number, and one named risk plus its guardrail
-- [ ] Write the 1–2 page submission
-- [ ] Build the one-slide summary
-- [ ] Submit for approval before starting prototype work
+- [ ] **#1 Problem + Stakeholder** — one specific pain, one named group who feels it
+- [ ] **#2 Current Workflow** — what happens today; where the friction is
+- [ ] **#3 Baseline + KPI** — a real baseline number, a target number, and a guardrail that must not get worse
+- [ ] **#4 AI Fit** — primary capability (classify / predict / recommend / generate / optimize / detect) and why
+- [ ] **#5 Evidence / Data Path** — sources, access, quality, constraints; run the readiness scorecard
+- [ ] **#6 Non-AI Alternative** — the simpler solution we are measured against
+- [ ] **#7 Risk + Control** — one meaningful failure and its initial guardrail
+- [ ] **#8 Recommendation** — investigate / reframe / reject, with a one-line reason
+- [ ] Write the 1–2 page proposal
+- [ ] Build the one-slide executive summary
+- [ ] Confirm no real customer, employee, health, financial, or confidential data is used
+- [ ] **Submit by Thursday, September 17**
 
 ---
 

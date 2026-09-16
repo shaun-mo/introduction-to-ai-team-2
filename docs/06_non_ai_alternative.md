@@ -1,4 +1,3 @@
-[06_non_ai_alternative.txt](https://github.com/user-attachments/files/32310984/06_non_ai_alternative.txt)
 # 06. Non-AI Alternative
 
 ## Simpler solution to consider first
@@ -21,5 +20,5 @@ Improve document standardization and intake structure without introducing AI:
 
 ## Standard this proposal must meet
 
-Per the course framework, the AI-based proposal must demonstrably outperform this simpler, lower-risk alternative � not just be technically interesting � before it's worth prototyping.
+Per the course framework, the AI-based proposal must demonstrably outperform this simpler, lower-risk alternative — not just be technically interesting — before it's worth prototyping.
 

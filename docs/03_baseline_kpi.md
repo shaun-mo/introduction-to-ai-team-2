@@ -1,4 +1,3 @@
-[03_baseline_kpi.txt](https://github.com/user-attachments/files/32310974/03_baseline_kpi.txt)
 # 03. Baseline + KPI
 
 > Figures below are hypothetical planning estimates for a fictional scenario, not real production data. They are directionally reasonable for a mid-size underwriting team and are meant to establish a testable baseline, not to be cited as fact.

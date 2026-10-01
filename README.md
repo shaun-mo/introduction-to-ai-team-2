@@ -53,7 +53,8 @@ introduction-to-ai-team-2/
 └── Class Notes/                  ← one folder per week: lecture PDF + markdown outline
     ├── Wk 1 - Aug 27 26/
     ├── Wk 2 - Sep 3 26/
-    └── Wk 3 - Sep 10 26/
+    ├── Wk 3 - Sep 10 26/
+    └── Wk 4 - Sep 17 26/
 ```
 
 ### Milestone 1 evidence package — `/docs`
@@ -76,7 +77,7 @@ Each topic is a separate file so the project logic can be reviewed one piece at 
 
 | Location | Description |
 |---|---|
-| [Class Notes/](Class%20Notes/) | Lecture PDFs with markdown outlines. Week 3 notes cover the Milestone 1 spec and data readiness scorecard. |
+| [Class Notes/](Class%20Notes/) | Lecture PDFs with markdown outlines, one folder per week. Week 3 covers the Milestone 1 spec and data readiness scorecard; Week 4 covers supervised learning and Applied Lab 1. |
 | [Course-Reference.md](Course-Reference.md) | Syllabus summary: course info, objectives, schedule, capstone checkpoints, grading, policies |
 | `[Syllabus] Intro to AI.pdf` | Full course syllabus (source document) |
 | `.env.local.example` | Template for local secrets. Copy to `.env.local`, which is gitignored. |
